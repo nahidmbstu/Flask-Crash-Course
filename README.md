@@ -1,10 +1,12 @@
 # CMD
 
-> > cd app
-> > set FLASK_APP=**init**.py
-> > set FLASK_ENV=development
-> > flask init-db
-> > flask run
+```
+cd app
+set FLASK_APP=**init**.py
+set FLASK_ENV=development
+flask init-db
+flask run
+```
 
 # DATABASE CONNECT
 
